@@ -1,11 +1,13 @@
 # Hi there 👋
 
-👨‍💻 I'm Julián, a passionate self-taught FrontEnd developer
+👨‍💻 I'm Julián, a passionate self-taught Front End developer which enjoy devoloping high performing, soft and beatifull apps.
 
 - 🔭 I’m currently working on [my personal blog](https://github.com/Rowleen/blog).
 - 🌱 I’m currently learning Typescript.
+- 👯 I’m looking to collaborate on humanitarian projects and video game projects.
 - 💬 Ask me about anything [here](https://github.com/Rowleen/Rowleen/issues).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/julianpeacevedo).
+- ⚡ Fun fact: equal in javascript isn't alway mean equal
 
 
 ### **Languages and Tools:**
@@ -36,7 +38,6 @@
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rowleen&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=Rowleen&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
