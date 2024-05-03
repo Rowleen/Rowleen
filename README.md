@@ -2,12 +2,11 @@
 
 👨‍💻 I'm Julián, a passionate self-taught Front End developer which enjoy devoloping high performing, soft and beatifull apps.
 
-- 🔭 I’m currently working on [my personal blog](https://github.com/Rowleen/blog).
-- 🌱 I’m currently learning Typescript.
+- 🌱 I’m still learning Typescript.
 - 👯 I’m looking to collaborate on humanitarian projects and video game projects.
 - 💬 Ask me about anything [here](https://github.com/Rowleen/Rowleen/issues).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/julianpeacevedo).
-- ⚡ Fun fact: equal in javascript isn't alway mean equal
+- ⚡ Fun fact: equal in javascript isn't alway mean equal.
 
 
 ### **Languages and Tools:**
