@@ -2,8 +2,8 @@
 
 👨‍💻 I'm Julián, a passionate self-taught Front End developer which enjoy devoloping high performing, soft and beatifull apps.
 
-- 🌱 I’m still learning Typescript.
-- 👯 I’m looking to collaborate on humanitarian projects and video game projects.
+- 🌱 I’m constantly learning.
+- 👯 I’m looking to collaborate on product corp.
 - 💬 Ask me about anything [here](https://github.com/Rowleen/Rowleen/issues).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/julianpeacevedo).
 - ⚡ Fun fact: equal in javascript isn't alway mean equal.
